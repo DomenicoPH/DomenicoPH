@@ -5,8 +5,8 @@ Soy un desarrollador full stack con un profundo interés en el arte y el diseño
 
 HTML | CSS | JavaScript | React | Redux | Tailwind | Bootstrap 
 
-Contacto:
-Email: dpaganoh@gmail.com 
+Contacto:  
+Email: dpaganoh@gmail.com  
 Linkedin: https://www.linkedin.com/in/domenico-pagano-hildebrandt/
 
 <!--
