@@ -1,4 +1,13 @@
-### Hi there 👋
+# Domenico Pagano
+### Front End Developer
+
+Soy un desarrollador full stack con un profundo interés en el arte y el diseño, lo que me ha llevado a enfocarme en el desarrollo front end. Mi principal objetivo es crear aplicaciones altamente funcionales y visualmente impactantes. Me apasiona combinar mi habilidad en el arte de la ilustración con el mundo del desarrollo front end para ofrecer experiencias digitales únicas y cautivadoras. Siempre estoy en busca de oportunidades para fusionar la creatividad con la tecnología y así crear soluciones que destaquen tanto en términos de utilidad como de estética.
+
+HTML | CSS | JavaScript | React | Redux | Tailwind | Bootstrap 
+
+Contacto:
+Email: dpaganoh@gmail.com 
+Linkedin: https://www.linkedin.com/in/domenico-pagano-hildebrandt/
 
 <!--
 **DomenicoPH/DomenicoPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
