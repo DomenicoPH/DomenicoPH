@@ -45,6 +45,7 @@ Soy un desarrollador con profundo interés en el arte y el diseño, lo que me ha
 
 ```text
 HTML | CSS | JavaScript | React | Redux | Tailwind | Bootstrap
+
 <!--
 **DomenicoPH/DomenicoPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
