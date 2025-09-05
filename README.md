@@ -1,4 +1,4 @@
-<h1 align="center">🎨 Domenico Pagano</h1>
+<h1 align="center">Domenico Pagano</h1>
 <h3 align="center">Front End Developer & Digital Artist</h3>
 
 <p align="center">
@@ -7,13 +7,13 @@
 
 ---
 
-### 🧠 Sobre mí
+### Sobre mí
 
 Soy un desarrollador con profundo interés en el arte y el diseño, lo que me ha llevado a especializarme en el desarrollo front end. Mi objetivo es construir aplicaciones altamente funcionales y visualmente impactantes. Me apasiona combinar ilustración y tecnología para ofrecer soluciones que destaquen tanto en utilidad como en estética.
 
 ---
 
-### 🛠️ Tecnologías
+### Tecnologías
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="HTML5" width="40"/>
@@ -34,14 +34,14 @@ Soy un desarrollador con profundo interés en el arte y el diseño, lo que me ha
 
 ---
 
-### 📬 Contacto
+### Contacto
 
-- 📧 Email: [dpaganoh@gmail.com](mailto:dpaganoh@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/domenico-pagano-hildebrandt](https://www.linkedin.com/in/domenico-pagano-hildebrandt/)
+- Email: [dpaganoh@gmail.com](mailto:dpaganoh@gmail.com)  
+- LinkedIn: [linkedin.com/in/domenico-pagano-hildebrandt](https://www.linkedin.com/in/domenico-pagano-hildebrandt/)
 
 ---
 
-### 🎯 Stack principal
+### Stack principal
 
 ```
 HTML | CSS | JavaScript | React | Redux | Tailwind | Bootstrap
