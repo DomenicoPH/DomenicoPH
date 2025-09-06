@@ -1,4 +1,4 @@
-<h1 align="center">Domenico Pagano</h1>
+<h1 align="center"><img src="https://res.cloudinary.com/dhaiensb8/image/upload/v1757179714/Gnomono/green1up16x16_animx32f_tyhj4y.gif" alt="one up">Domenico Pagano</h1>
 <h3 align="center">Front End Developer & Digital Artist</h3>
 
 <p align="center">
