@@ -27,10 +27,10 @@ Soy un desarrollador con profundo interés en el arte y el diseño, lo que me ha
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40"/>
   <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="Redux" width="40"/>
   <img src="https://img.icons8.com/fluent-systems-filled/200/EBEBEB/nextjs.png" alt="Next.js" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NestJS-logo-wordmark.svg/1200px-NestJS-logo-wordmark.svg.png" alt="NestJS" width="80"/>
-  <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="Node.js" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="Sequelize" width="80"/>
-  <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="Express" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/2120px-NestJS.svg.png" alt="NestJS" width="40"/>
+  <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="Node.js" width="40"/>
+  <img src="https://sequelize.org/api/v6/image/brand_logo.png" alt="Sequelize" width="40"/>
+  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="Express" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40"/>
   <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VSCode" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>
