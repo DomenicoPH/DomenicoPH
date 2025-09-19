@@ -3,21 +3,21 @@
   Domenico Pagano
   <img src="https://res.cloudinary.com/dhaiensb8/image/upload/v1757179714/Gnomono/green1up16x16_animx32f_tyhj4y.gif" alt="one up" width="40px">
 </h1>
-<h3 align="center">Front End Developer & Digital Artist</h3>
+<h3 align="center">Full Stack Developer & Game Dev Enthusiast</h3>
 
 <p align="center">
-  <em>Desarrollador full stack con enfoque en front end.</em>
+  <em>Code-driven, design-conscious.</em>
 </p>
 
 ---
 
-### Sobre mí
+### About me
 
-Soy un desarrollador con profundo interés en el arte y el diseño, lo que me ha llevado a especializarme en el desarrollo front end. Mi objetivo es construir aplicaciones altamente funcionales y visualmente impactantes. Me apasiona combinar ilustración y tecnología para ofrecer soluciones que destaquen tanto en utilidad como en estética.
+I build scalable web apps and explore game development as a creative playground for code.
 
 ---
 
-### Tecnologías
+### Tech Stack
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="HTML5" width="40"/>
@@ -38,14 +38,14 @@ Soy un desarrollador con profundo interés en el arte y el diseño, lo que me ha
 
 ---
 
-### Contacto
+### Contact me
 
 - Email: [dpaganoh@gmail.com](mailto:dpaganoh@gmail.com)  
 - LinkedIn: [linkedin.com/in/domenico-pagano-hildebrandt](https://www.linkedin.com/in/domenico-pagano-hildebrandt/)
 
 ---
 
-### Stack principal
+### Main Stack
 
 ```
 HTML | CSS | JavaScript | React | Redux | Tailwind | Bootstrap
