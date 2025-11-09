@@ -54,4 +54,4 @@
 
 - Email: [dpaganoh@gmail.com](mailto:dpaganoh@gmail.com)  
 - LinkedIn: [linkedin.com/in/domenico-pagano-hildebrandt](https://www.linkedin.com/in/domenico-pagano-hildebrandt/)
-- [Instagram](https://www.instagram.com/gnomono/) - I'm also Comic artist & Illustrator
+- [Instagram](https://www.instagram.com/gnomono/) - I'm also Comic artist & Illustrator.
