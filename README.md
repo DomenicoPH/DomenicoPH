@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Domenico Pagano</h1>
 <h3 align="center">Full Stack Developer & Game Dev Enthusiast</h3>
-<p align="center"><em>Code-driven, design-conscious.</em></p>
+<p align="center"><em>Code-driven, design-conscious.</em></p>  
+
 [portfolio](https://portfolio-gnomono.vercel.app/)
 
 ---
