@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Domenico Pagano</h1>
 <h3 align="center">Full Stack Developer & Game Dev Enthusiast</h3>
 <p align="center"><em>Code-driven, design-conscious.</em></p>
+[portfolio](https://portfolio-gnomono.vercel.app/)
 
 ---
 
@@ -51,8 +52,6 @@
 ---
 
 ### Contact me
-
-- [portfolio-gnomono.vercel.app](https://portfolio-gnomono.vercel.app/)
 
 - Email: [dpaganoh@gmail.com](mailto:dpaganoh@gmail.com)  
 - LinkedIn: [linkedin.com/in/domenico-pagano-hildebrandt](https://www.linkedin.com/in/domenico-pagano-hildebrandt/)
