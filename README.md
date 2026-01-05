@@ -9,6 +9,7 @@
 <img src="https://res.cloudinary.com/dhaiensb8/image/upload/v1757179714/Gnomono/green1up16x16_animx32f_tyhj4y.gif" alt="one up" width="20px"> I build **scalable web apps**  
 <img src="https://res.cloudinary.com/dhaiensb8/image/upload/v1757179714/Gnomono/green1up16x16_animx32f_tyhj4y.gif" alt="one up" width="20px"> I explore **game development** as a creative playground for code  
 <img src="https://res.cloudinary.com/dhaiensb8/image/upload/v1757179714/Gnomono/green1up16x16_animx32f_tyhj4y.gif" alt="one up" width="20px"> Passionate about **UI/UX and clean architecture**  
+[portfolio-gnomono.vercel.app](https://portfolio-gnomono.vercel.app/)
 
 ---
 
